@@ -2,7 +2,7 @@
 #-*-coding:utf-8-*-
 # Dibuat Dengan ❤️ Rahmat-XD
 
-permintaan impor,mekanisasi,bs4,sys,os,subproses,uuid,random,time,re,base64,concurrent.futures,json,ipaddress
+permintaan impor,mekanisasi,bs4,sys,os,subproses,uuid,random,time,re,base64,concurrent,futures,json,ipaddress
 dari randint impor acak
 dari bersamaan.futures mengimpor ThreadPoolExecutor sebagai ThreadPool
 dari tanggal impor datetime
