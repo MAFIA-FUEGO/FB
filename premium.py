@@ -4,10 +4,10 @@
 
 permintaan impor,mekanisasi,bs4,sys,os,subproses,uuid,random,time,re,base64,concurrent,futures,json,ipaddress
 dari randint impor acak
-dari bersamaan.futures mengimpor ThreadPoolExecutor sebagai ThreadPool
+dari bersamaan,futures mengimpor ThreadPoolExecutor sebagai ThreadPool
 dari tanggal impor datetime
 dari datetime impor datetime
-saat ini = datetime.now()
+saat ini = datetime,now()
 
 p = "\x1b[0;37m" # putih
 m = "\x1b[0;31m" # merah
